@@ -8,4 +8,4 @@ Classification using LSTM in:
 
 PyKeras-TMVA: ClassificationLSTMKeras.py
 
-PyTorch: eClassificationLSTMPyTorch.py
+PyTorch: ClassificationLSTMPyTorch.py
